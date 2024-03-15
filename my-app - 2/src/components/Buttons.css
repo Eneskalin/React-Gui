@@ -1,0 +1,87 @@
+.start {
+    float: left;
+    display: flex;
+    color:gray;
+    justify-content: center;
+    flex-wrap: wrap;
+    background: none;
+    align-items: center;
+    min-width: 50px;
+    height: 50px;
+    margin-right: 20px;
+    padding:0; 
+    font-weight: bold;
+    transition: all 0.3s ease;
+    position: relative;
+    top: 150px;
+    left: 41.5%;
+    border-radius: 100%;
+    border: 3px solid;
+    
+  }
+  
+  .start:hover{    
+    color:aquamarine;
+  }
+  .start:active{
+    color: aquamarine;
+  }
+ 
+  .triangle {
+    float: left;
+    display: flex;
+    color: gray;
+    justify-content: center;
+    flex-wrap: wrap;
+    background: none;
+    align-items: center;
+    min-width: 50px;
+    height: 50px;
+    margin-right: 20px;
+    padding: 0;
+    font-weight: bold;
+    transition: all 0.3s ease;
+    position: relative;
+    top: 150px;
+    left: 41.5%;
+    border-radius: 100%;
+    border: 3px solid;
+  }
+  
+  .triangle:hover {
+    color: red;
+  }
+  
+  .triangle:active {
+    color: red;
+  }
+
+  .brake {
+    float: left;
+    display: flex;
+    color: gray;
+    justify-content: center;
+    flex-wrap: wrap;
+    background: none;
+    align-items: center;
+    min-width: 50px;
+    height: 50px;
+    margin-right: 20px;
+    padding: 0;
+    font-weight: bold;
+    transition: all 0.3s ease;
+    position: relative;
+    top: 150px;
+    left: 41.5%;
+    border-radius: 100%;
+    border: 3px solid;
+  }
+  
+  .brake:hover {
+    color:goldenrod;
+  }
+  
+  .brake:active {
+    color: goldenrod;
+  }
+  

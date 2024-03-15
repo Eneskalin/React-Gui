@@ -1,0 +1,74 @@
+.navigationbar{
+    border: solid aquamarine;
+    width: 1040px;
+    height: 100px;
+    border-radius: 20px 20px 20px 20px;    
+    justify-content: center;
+    margin: auto;
+    position: relative;
+    bottom: 800px;
+
+}
+.circle1{
+    border: solid grey;
+    width: 20px;
+    height: 100px;
+    border-radius:100%;    
+    justify-content: center;
+    margin: auto;
+    position: relative;
+    bottom: 900px;
+    right: 350px;
+    z-index: -1;
+
+}
+
+.circle2{
+    border: solid grey;
+    width: 20px;
+    height: 100px;
+    border-radius:100%;    
+    justify-content: center;
+    margin: auto;
+    position: relative;
+    bottom: 1000px;
+    left: -50px;
+    z-index: -1;
+}
+
+.circle3{
+    border: solid grey;
+    width: 20px;
+    height: 100px;
+    border-radius:100%;    
+    justify-content: center;
+    margin: auto;
+    position: relative;
+    bottom: 1100px;
+    left: 300px;
+    z-index: -1;
+}
+
+.kapsul{
+    width: 80px;
+    height: 50px;
+    position: relative;
+    bottom: 1190px;
+    left: 260px;
+}
+
+.progressbar{
+    height: 15px;
+    width: 20px;
+    background-color: aquamarine;
+    transition: width 0.5s;
+    position: relative;
+    bottom: 1210px;
+    left: 273px;
+    z-index: -2;
+}
+
+.progressbarPercentage{
+    width: 50px;
+}
+

@@ -1,0 +1,13 @@
+body {
+  background: rgb(34,34,34);
+background: linear-gradient(90deg, rgba(34,34,34,1) 0%, rgba(46,46,46,1) 0%, rgba(27,27,27,1) 60%);
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+    
+}

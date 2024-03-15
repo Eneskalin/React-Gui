@@ -1,0 +1,37 @@
+{
+    "overview": [
+        {  
+            "Xspeed": 68,
+            "yspeed": 5,
+            "zspeed": 0
+        },
+        { 
+            "roll": 0,
+            "pitch": 0,
+            "yaw": 0
+        }
+        ,
+        {   
+            "Xacceleration":2,
+            "Yacceleration":0,
+            "Zacceleration":0
+        },
+        {
+            "power":0,
+            "pressure":0
+        }
+        ,{
+            "impulsetemp":0,
+            "railtemp":0,
+            "lineertemp":0,
+            "levitationtemp":0,
+            "braketemp":0,
+            "emergencytemp":0
+        },
+        {
+            "xNavigation":207,
+            "yNavigation":0,
+            "zNavigation":0
+        }
+    ]
+}

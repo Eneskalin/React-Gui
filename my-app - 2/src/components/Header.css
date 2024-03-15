@@ -1,0 +1,29 @@
+.SubTitle{
+    text-align: center;
+    position: relative;
+    top: 11px;
+    left: 35px;
+    color: aliceblue;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.Title{
+    text-align: center;
+    position: relative;
+    top: 10px;
+    margin-top: auto;
+    color: rgb(26, 221, 97);
+    font-size: 50px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+
+.Speed.Speed{
+    color: aliceblue;
+    text-align: center;
+    font-size: 40px;
+    position: relative;
+    top: 170px;
+}
+.Speed.Module{
+    
+}
+
